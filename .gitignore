@@ -1,0 +1,33 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Do not publish source or secrets in this showcase repository
+.env
+.env.*
+node_modules/
+src/
+app/
+supabase/
+android/
+ios/
+package-lock.json
+package.json
+
+# Only selected showcase screenshots should be published.
+assets/screenshots/*
+!assets/screenshots/
+!assets/screenshots/dashboard2.jpg
+!assets/screenshots/dashboard.jpg
+!assets/screenshots/meal.jpg
+!assets/screenshots/aicamera.jpg
+!assets/screenshots/aisuggestion.jpg
+!assets/screenshots/analizsonucu.jpg
+!assets/screenshots/exercise.jpg
+!assets/screenshots/water.jpg
+!assets/screenshots/weight.jpg
+!assets/screenshots/profile2.jpg
+!assets/screenshots/profile.jpg
+!assets/screenshots/analytics.png
