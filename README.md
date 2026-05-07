@@ -1,14 +1,28 @@
-# NutriAI
+<p align="center">
+  <img src="assets/icon.png" alt="NutriAI Logo" width="120">
+</p>
 
-**Yapay zekâ destekli fitness ve beslenme mobil uygulaması**
+<h1 align="center">NutriAI</h1>
+
+<p align="center">
+  Yapay zekâ destekli fitness ve beslenme mobil uygulaması
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-iOS%20%7C%20Android-2D5016" alt="Platform">
+  <img src="https://img.shields.io/badge/Status-Private%20Source-C8A84B" alt="Private Source">
+  <img src="https://img.shields.io/badge/Showcase-Public-198AC7" alt="Showcase">
+</p>
+
+## Proje Hakkında
 
 NutriAI; beslenme takibi, egzersiz kaydı, su tüketimi, kilo değişimi, haftalık analizler ve yapay zekâ destekli kişisel önerileri tek bir mobil deneyimde birleştiren cross-platform bir sağlık uygulamasıdır.
 
-> Bu repository, NutriAI projesi için hazırlanmış public tanıtım reposudur. Uygulamanın kaynak kodu, backend yapısı, veritabanı migration dosyaları ve gizli anahtarları güvenlik nedeniyle private tutulmaktadır.
+Bu repository, NutriAI için hazırlanmış **public tanıtım reposudur**. Uygulamanın kaynak kodu, backend yapısı, veritabanı migration dosyaları, iş kuralları ve gizli anahtarları güvenlik ve fikri mülkiyet nedeniyle private tutulmaktadır.
 
-## Proje Özeti
+## Ürün Kapsamı
 
-NutriAI, kullanıcının sağlık hedeflerine göre kişiselleştirilmiş takip ve öneri deneyimi sunar. Uygulamada kullanıcı; günlük öğünlerini, su tüketimini, egzersizlerini, kilosunu ve haftalık ilerlemesini takip edebilir. Yapay zekâ tarafında yemek görseli analizi, haftalık içgörü üretimi ve plan önerileri için güvenli bir backend akışı kullanılmıştır.
+NutriAI, kullanıcının sağlık hedeflerine göre kişiselleştirilmiş takip ve öneri deneyimi sunar. Uygulama; günlük öğün kayıtlarını, su tüketimini, egzersizleri, kilo ilerlemesini ve haftalık sağlık trendlerini tek merkezden yönetir. Yapay zekâ tarafında yemek görseli analizi, haftalık içgörü üretimi ve plan önerileri için güvenli bir backend akışı kullanılmıştır.
 
 ## Öne Çıkan Özellikler
 
@@ -65,7 +79,7 @@ NutriAI, kullanıcının sağlık hedeflerine göre kişiselleştirilmiş takip 
 
 ## Mimari Yaklaşım
 
-NutriAI'de mobil istemci, kullanıcı deneyimi ve state yönetiminden sorumludur. Kimlik doğrulama, veritabanı, güvenli yapay zekâ geçidi, kota kontrolü ve abonelik doğrulama gibi hassas süreçler backend tarafında yönetilir.
+NutriAI'de mobil istemci; kullanıcı deneyimi, ekran akışları ve state yönetiminden sorumludur. Kimlik doğrulama, veritabanı işlemleri, güvenli yapay zekâ geçidi, kota kontrolü ve abonelik doğrulama gibi hassas süreçler backend tarafında yönetilir.
 
 ```mermaid
 flowchart LR
@@ -78,9 +92,9 @@ flowchart LR
     A --> H[Health Connect]
 ```
 
-## Güvenlik Notu
+## Repository Kapsamı
 
-Bu public tanıtım reposunda aşağıdaki içerikler yer almaz:
+Bu repository yalnızca ürün tanıtımı ve portfolyo sunumu amacıyla hazırlanmıştır. Aşağıdaki içerikler public olarak paylaşılmaz:
 
 - Kaynak kodu
 - `.env` dosyaları
@@ -92,12 +106,20 @@ Bu public tanıtım reposunda aşağıdaki içerikler yer almaz:
 
 ## Demo
 
-Demo video/GIF bağlantısı buraya eklenecek:
+Demo video/GIF bağlantısı eklendiğinde bu alanda paylaşılacaktır.
 
 ```text
 Demo: yakında eklenecek
 ```
 
+## Fikri Mülkiyet
+
+NutriAI; tasarım, ürün fikri, ekran görüntüleri, marka adı ve uygulama kapsamı dahil olmak üzere Muhittin Dayan tarafından geliştirilmiş özel bir projedir. Bu repository'de yer alan materyaller yalnızca portfolyo ve tanıtım amacıyla görüntülenebilir.
+
+Kaynak kodu ve uygulamanın ticari/teknik içeriği için herhangi bir kullanım, kopyalama, dağıtma, yeniden üretme veya türev çalışma izni verilmemektedir.
+
 ## Geliştirici
 
-Muhittin Dayan
+**Muhittin Dayan**
+
+© 2026 Muhittin Dayan. Tüm hakları saklıdır.
