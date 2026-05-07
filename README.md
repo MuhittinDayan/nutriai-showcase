@@ -52,28 +52,38 @@ NutriAI, kullanıcının sağlık hedeflerine göre kişiselleştirilmiş takip 
 | Sağlık Verisi | React Native Health Connect |
 | Build | EAS Build |
 
-## Ekran Görüntüleri
+## Uygulama Ekranları
 
 <table>
   <tr>
-    <td align="center"><strong>Dashboard</strong><br><img src="assets/screenshots/dashboard2.jpg" alt="Dashboard" width="180"></td>
-    <td align="center"><strong>Öğün Takibi</strong><br><img src="assets/screenshots/meal.jpg" alt="Öğün Takibi" width="180"></td>
+    <td align="center"><strong>Açılış</strong><br><img src="assets/screenshots/splash.jpg" alt="Açılış" width="180"></td>
+    <td align="center"><strong>Dashboard</strong><br><img src="assets/screenshots/dashboard.jpg" alt="Dashboard" width="180"></td>
+    <td align="center"><strong>Temel Metrikler</strong><br><img src="assets/screenshots/dashboard2.jpg" alt="Temel Metrikler" width="180"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Hızlı Kayıt</strong><br><img src="assets/screenshots/camera.jpg" alt="Hızlı Kayıt" width="180"></td>
     <td align="center"><strong>AI Kamera</strong><br><img src="assets/screenshots/aicamera.jpg" alt="AI Kamera" width="180"></td>
+    <td align="center"><strong>Öğün Analizi</strong><br><img src="assets/screenshots/mealanalyze.jpg" alt="Öğün Analizi" width="180"></td>
   </tr>
   <tr>
     <td align="center"><strong>Analiz Sonucu</strong><br><img src="assets/screenshots/analizsonucu.jpg" alt="Analiz Sonucu" width="180"></td>
+    <td align="center"><strong>Öğün Takibi</strong><br><img src="assets/screenshots/meal.jpg" alt="Öğün Takibi" width="180"></td>
+    <td align="center"><strong>Beslenme</strong><br><img src="assets/screenshots/nutrition.png" alt="Beslenme" width="180"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Tarifler</strong><br><img src="assets/screenshots/recipes.png" alt="Tarifler" width="180"></td>
     <td align="center"><strong>Egzersiz</strong><br><img src="assets/screenshots/exercise.jpg" alt="Egzersiz" width="180"></td>
     <td align="center"><strong>Su Takibi</strong><br><img src="assets/screenshots/water.jpg" alt="Su Takibi" width="180"></td>
   </tr>
   <tr>
     <td align="center"><strong>Kilo Takibi</strong><br><img src="assets/screenshots/weight.jpg" alt="Kilo Takibi" width="180"></td>
-    <td align="center"><strong>Profil Menüsü</strong><br><img src="assets/screenshots/profile2.jpg" alt="Profil Menüsü" width="180"></td>
     <td align="center"><strong>Haftalık Analizler</strong><br><img src="assets/screenshots/analytics.png" alt="Haftalık Analizler" width="180"></td>
+    <td align="center"><strong>AI İçgörüleri</strong><br><img src="assets/screenshots/aisuggestion.jpg" alt="AI İçgörüleri" width="180"></td>
   </tr>
   <tr>
-    <td align="center"><strong>Ana Plan</strong><br><img src="assets/screenshots/dashboard.jpg" alt="Ana Plan" width="180"></td>
-    <td align="center"><strong>AI İçgörüleri</strong><br><img src="assets/screenshots/aisuggestion.jpg" alt="AI İçgörüleri" width="180"></td>
     <td align="center"><strong>Profil Özeti</strong><br><img src="assets/screenshots/profile.jpg" alt="Profil Özeti" width="180"></td>
+    <td align="center"><strong>Profil Menüsü</strong><br><img src="assets/screenshots/profile2.jpg" alt="Profil Menüsü" width="180"></td>
+    <td align="center"><strong>Bildirim Ayarları</strong><br><img src="assets/screenshots/profile-reminder.jpg" alt="Bildirim Ayarları" width="180"></td>
   </tr>
 </table>
 
