@@ -40,21 +40,28 @@ NutriAI, kullanıcının sağlık hedeflerine göre kişiselleştirilmiş takip 
 
 ## Ekran Görüntüleri
 
-| Dashboard | Öğün Takibi | AI Kamera |
-| --- | --- | --- |
-| ![Dashboard](assets/screenshots/dashboard2.jpg) | ![Öğün Takibi](assets/screenshots/meal.jpg) | ![AI Kamera](assets/screenshots/aicamera.jpg) |
-
-| Analiz Sonucu | Egzersiz | Su Takibi |
-| --- | --- | --- |
-| ![Analiz Sonucu](assets/screenshots/analizsonucu.jpg) | ![Egzersiz](assets/screenshots/exercise.jpg) | ![Su Takibi](assets/screenshots/water.jpg) |
-
-| Kilo Takibi | Profil Menüsü | Haftalık Analizler |
-| --- | --- | --- |
-| ![Kilo Takibi](assets/screenshots/weight.jpg) | ![Profil Menüsü](assets/screenshots/profile2.jpg) | ![Haftalık Analizler](assets/screenshots/analytics.png) |
-
-| Ana Plan | AI İçgörüleri | Profil Özeti |
-| --- | --- | --- |
-| ![Ana Plan](assets/screenshots/dashboard.jpg) | ![AI İçgörüleri](assets/screenshots/aisuggestion.jpg) | ![Profil Özeti](assets/screenshots/profile.jpg) |
+<table>
+  <tr>
+    <td align="center"><strong>Dashboard</strong><br><img src="assets/screenshots/dashboard2.jpg" alt="Dashboard" width="180"></td>
+    <td align="center"><strong>Öğün Takibi</strong><br><img src="assets/screenshots/meal.jpg" alt="Öğün Takibi" width="180"></td>
+    <td align="center"><strong>AI Kamera</strong><br><img src="assets/screenshots/aicamera.jpg" alt="AI Kamera" width="180"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Analiz Sonucu</strong><br><img src="assets/screenshots/analizsonucu.jpg" alt="Analiz Sonucu" width="180"></td>
+    <td align="center"><strong>Egzersiz</strong><br><img src="assets/screenshots/exercise.jpg" alt="Egzersiz" width="180"></td>
+    <td align="center"><strong>Su Takibi</strong><br><img src="assets/screenshots/water.jpg" alt="Su Takibi" width="180"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Kilo Takibi</strong><br><img src="assets/screenshots/weight.jpg" alt="Kilo Takibi" width="180"></td>
+    <td align="center"><strong>Profil Menüsü</strong><br><img src="assets/screenshots/profile2.jpg" alt="Profil Menüsü" width="180"></td>
+    <td align="center"><strong>Haftalık Analizler</strong><br><img src="assets/screenshots/analytics.png" alt="Haftalık Analizler" width="180"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Ana Plan</strong><br><img src="assets/screenshots/dashboard.jpg" alt="Ana Plan" width="180"></td>
+    <td align="center"><strong>AI İçgörüleri</strong><br><img src="assets/screenshots/aisuggestion.jpg" alt="AI İçgörüleri" width="180"></td>
+    <td align="center"><strong>Profil Özeti</strong><br><img src="assets/screenshots/profile.jpg" alt="Profil Özeti" width="180"></td>
+  </tr>
+</table>
 
 ## Mimari Yaklaşım
 
@@ -90,11 +97,6 @@ Demo video/GIF bağlantısı buraya eklenecek:
 ```text
 Demo: yakında eklenecek
 ```
-
-## CV İçin Kısa Açıklama
-
-**NutriAI | Yapay Zekâ Destekli Fitness ve Beslenme Mobil Uygulaması**  
-React Native, Expo, TypeScript, Supabase, PostgreSQL, Gemini API ve RevenueCat kullanarak yapay zekâ destekli yemek analizi, kişiselleştirilmiş beslenme planı, egzersiz/su/kilo takibi, haftalık analizler ve premium erişim akışlarına sahip cross-platform mobil uygulama geliştirdim.
 
 ## Geliştirici
 
